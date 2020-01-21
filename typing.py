@@ -9,4 +9,3 @@ def typing(str):
 
   #Exemplo
   typing("Hello world!")
-  
