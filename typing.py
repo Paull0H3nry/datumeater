@@ -6,3 +6,7 @@ def typing(str):
     print(str[i],end="")
     i+=1
   print("\n")
+
+  #Exemplo
+  typing("Hello world!")
+  
